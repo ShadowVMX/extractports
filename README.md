@@ -1,3 +1,10 @@
-# extractports
+## Extractports
 
-@s4vitar --> created this script.
+chmod +x extractports
+
+cp extractports /usr/bin/
+
+extractports [captura nmap]
+
+Reporte:
+
